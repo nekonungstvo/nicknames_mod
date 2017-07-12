@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "Nicknames",
+    "name": "RP Nicknames",
+    "description": "Makes nicknames invisible when player is not seen.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "https://konungstvo.ru",
+    "updateUrl": "https://github.com/nekonungstvo/nicknames_mod",
+    "authors": [
+      "xunto"
+    ],
+    "credits": "",
+    "parent": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
